@@ -38,21 +38,21 @@
 		D05CDE4514F6758B00E132EF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D05CDE4714F6758B00E132EF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D05CDE4914F6758B00E132EF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		D05CDE4D14F6758B00E132EF /* helloworld-Info.plist */ = {isa = PBXFileReference; path = "helloworld-Info.plist"; sourceTree = "<group>"; };
+		D05CDE4D14F6758B00E132EF /* helloworld-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "helloworld-Info.plist"; sourceTree = "<group>"; };
 		D05CDE4F14F6758B00E132EF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D05CDE5114F6758B00E132EF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D05CDE5314F6758B00E132EF /* helloworld-Prefix.pch */ = {isa = PBXFileReference; path = "helloworld-Prefix.pch"; sourceTree = "<group>"; };
-		D05CDE5414F6758B00E132EF /* helloworldAppDelegate.h */ = {isa = PBXFileReference; path = helloworldAppDelegate.h; sourceTree = "<group>"; };
+		D05CDE5314F6758B00E132EF /* helloworld-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "helloworld-Prefix.pch"; sourceTree = "<group>"; };
+		D05CDE5414F6758B00E132EF /* helloworldAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = helloworldAppDelegate.h; sourceTree = "<group>"; };
 		D05CDE5514F6758B00E132EF /* helloworldAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = helloworldAppDelegate.m; sourceTree = "<group>"; };
 		D05CDE5814F6758B00E132EF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		D05CDE5B14F6758B00E132EF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		D05CDE5D14F6758B00E132EF /* helloworldViewController.h */ = {isa = PBXFileReference; path = helloworldViewController.h; sourceTree = "<group>"; };
+		D05CDE5D14F6758B00E132EF /* helloworldViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = helloworldViewController.h; sourceTree = "<group>"; };
 		D05CDE5E14F6758B00E132EF /* helloworldViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = helloworldViewController.m; sourceTree = "<group>"; };
 		D05CDE6514F6758B00E132EF /* helloworldTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = helloworldTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D05CDE6614F6758B00E132EF /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		D05CDE6E14F6758B00E132EF /* helloworldTests-Info.plist */ = {isa = PBXFileReference; path = "helloworldTests-Info.plist"; sourceTree = "<group>"; };
+		D05CDE6E14F6758B00E132EF /* helloworldTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "helloworldTests-Info.plist"; sourceTree = "<group>"; };
 		D05CDE7014F6758B00E132EF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D05CDE7214F6758B00E132EF /* helloworldTests.h */ = {isa = PBXFileReference; path = helloworldTests.h; sourceTree = "<group>"; };
+		D05CDE7214F6758B00E132EF /* helloworldTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = helloworldTests.h; sourceTree = "<group>"; };
 		D05CDE7314F6758B00E132EF /* helloworldTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = helloworldTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
